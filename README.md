@@ -3,7 +3,7 @@
 ## Assignments
 1. [Assignment 1](https://classroom.github.com/a/fNMPw58A)
 2. [Assignment 2](https://classroom.github.com/a/4G4P1KL_)
-
+3. [Assignment 3](https://classroom.github.com/a/PNf60zTr)
 
 ## Resources
 [Book](https://1drv.ms/b/s!AmZJMrBsKhiOhYRVjF_6FufcwBQI8w?e=xGQ2i1)
