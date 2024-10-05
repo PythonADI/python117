@@ -53,3 +53,17 @@
         <li>Data Structure - list</li>
     </ul>
 </details>
+
+<details>
+    <summary>Workshop 4</summary>
+    <br>
+    <ul>
+        <li>Working with list</li>
+        <li>Accessing elements</li>
+        <li>Adding new elements</li>
+        <li>Updating elements</li>
+        <li>Removing elements</li>
+        <li>Searching</li>
+        <li>Sorting</li>
+    </ul>
+</details>
