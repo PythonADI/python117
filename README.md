@@ -68,3 +68,18 @@
         <li>Sorting</li>
     </ul>
 </details>
+
+
+<details>
+    <summary>Workshop 5</summary>
+    <br>
+    <ul>
+        <li>Searching in list</li>
+        <li>Sorting list</li>
+        <li>Slices</li>
+        <li>List Comprehension</li>
+        <li>Random Numbers</li>
+        <li>Multidimesional list</li>
+        <li>Tuple</li>
+    </ul>
+</details>
