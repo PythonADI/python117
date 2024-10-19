@@ -78,9 +78,18 @@
         <li>Searching in list</li>
         <li>Sorting list</li>
         <li>Slices</li>
-        <li>List Comprehension</li>
         <li>Random Numbers</li>
+    </ul>
+</details>
+
+<details>
+    <summary>Workshop 6</summary>
+    <br>
+    <ul>
+        <li>List Comprehension</li>
         <li>Multidimesional list</li>
         <li>Tuple</li>
+        <li>Dictionaries</li>
+        <li>Functions</li>
     </ul>
 </details>
