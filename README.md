@@ -6,6 +6,7 @@
 3. [Assignment 3](https://classroom.github.com/a/PNf60zTr)
 4. [Assignment 4](https://classroom.github.com/a/3PA52MLG)
 5. [Assignment 5](https://classroom.github.com/a/CFHB9GrK)
+6. [Assignment 6 (Dict)](https://classroom.github.com/a/7YOGQreq)
 
 ## Resources
 [Python Book](https://1drv.ms/b/s!AmZJMrBsKhiOhYRVjF_6FufcwBQI8w?e=xGQ2i1)
