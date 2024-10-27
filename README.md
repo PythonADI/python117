@@ -8,7 +8,8 @@
 5. [Assignment 5](https://classroom.github.com/a/CFHB9GrK)
 
 ## Resources
-[Book](https://1drv.ms/b/s!AmZJMrBsKhiOhYRVjF_6FufcwBQI8w?e=xGQ2i1)
+[Python Book](https://1drv.ms/b/s!AmZJMrBsKhiOhYRVjF_6FufcwBQI8w?e=xGQ2i1)
+[Algorithms Book](https://1drv.ms/b/s!AmZJMrBsKhiOguIqpsGg8IHNDLHyvA?e=lXdjiX)
 
 [Learn Git Basics](https://www.youtube.com/watch?v=-iWaarLI7zI)
 
