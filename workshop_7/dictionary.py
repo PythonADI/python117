@@ -1,8 +1,30 @@
 # Dict - HashMap / Map
 
+
+
+
+en_ka = {
+    "hello": "გამარჯობა",
+    "bye": "ნახვამდის",
+}
+
+
+print(en_ka["hello"])
+en_ka["hello"] = "სალამი"
+print(en_ka["hello"])
+en_ka.pop("hello")
+# del en_ka["hello"]
+# del en_ka
+print(en_ka)
+
+en_ka["bottle"] = "ბოთლი"
+print(en_ka)
+# quit()
+
+
 ka_en = {
     # key : value
-    "გამარჯობა": ("hello"),
+    "გამარჯობა": ("hello",),
     "ნახვამდის": ("goodbye", "bye", "see you"),
     "როგორ ხარ?": ("how are you?",),
     "ბოთლი": (),

@@ -11,7 +11,6 @@ student = {
         "type": "parrot",
     },
 }
-
 print(student["name"], student["subjects"])
 # print(student["pet"]["name"])
 print(student["pet"]["name"], student["pet"]["type"])

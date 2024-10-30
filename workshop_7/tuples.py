@@ -6,6 +6,7 @@ print(nums.count(7))
 print(nums[3])
 print(nums.index(7))
 # nums_ = nums
+# nums[0] = 7
 # nums = (9, 7, 8, 19)
 # print(nums is nums_)
 size = (1920, 1080)

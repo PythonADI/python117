@@ -88,10 +88,17 @@
     <summary>Workshop 6</summary>
     <br>
     <ul>
-        <li>List Comprehension</li>
-        <li>Multidimesional list</li>
         <li>Tuple</li>
         <li>Dictionaries</li>
+    </ul>
+</details>
+
+<details>
+    <summary>Workshop 7</summary>
+    <br>
+    <ul>
+        <li>List Comprehension</li>
+        <li>Multidimesional list</li>
         <li>Functions</li>
     </ul>
 </details>
