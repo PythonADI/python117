@@ -98,8 +98,20 @@
     <summary>Workshop 7</summary>
     <br>
     <ul>
+        <li>Functions</li>
+    </ul>
+</details>
+
+<details>
+    <summary>Workshop 8</summary>
+    <br>
+    <ul>
         <li>List Comprehension</li>
         <li>Multidimesional list</li>
-        <li>Functions</li>
+        <li>Function Scopes</li>
+        <li>Default values</li>
+        <li>Keywrod arguments</li>
+        <li>Arbitrary Arguments</li>
+        <li>Recursion</li>
     </ul>
 </details>

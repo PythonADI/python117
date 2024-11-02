@@ -51,7 +51,7 @@ def take_order():
         order.append((menu_item, quantity))
     return order
 
-print(take_order())
+# print(take_order())
 
 
 
@@ -63,6 +63,24 @@ print(take_order())
         ("Khinkali", 40),
     ]
 }
-def get_total_order():
-    pass
+def get_total_order(order):
+    # for element in order:
+        # item, quantity = element
+        # print(f'You ordered {element[0]} - {element[1]}')
+    total_price = 0
+    for item, quantity in order:
+        total_price += menu[item]['price'] * quantity
+        print(f'You ordered {item} - {quantity}')
+    return total_price
 
+
+# get_total_order(take_order())
+total_price = get_total_order([
+    ("Mtsvadi", 2),
+    ("Khinkali", 40),
+])
+
+print(total_price)
+
+# a, b = (7,)
+# print(a, b)
