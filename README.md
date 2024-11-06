@@ -18,10 +18,9 @@
 
 
 
-## Workshop Topics
 
 <details>
-    <summary>Workshop 1</summary>
+    <summary>Workshop 1 (Basic Syntax)</summary>
     <br>
     <ul>
         <li>How python works</li>
@@ -35,7 +34,7 @@
 
 
 <details>
-    <summary>Workshop 2</summary>
+    <summary>Workshop 2 (Conditionals)</summary>
     <br>
     <ul>
         <li>Variables</li>
@@ -49,7 +48,7 @@
 
 
 <details>
-    <summary>Workshop 3</summary>
+    <summary>Workshop 3 (Loops)</summary>
     <br>
     <ul>
         <li>Loops (for, while)</li>
@@ -61,7 +60,7 @@
 </details>
 
 <details>
-    <summary>Workshop 4</summary>
+    <summary>Workshop 4 (Data Structure List)</summary>
     <br>
     <ul>
         <li>Working with list</li>
@@ -76,7 +75,7 @@
 
 
 <details>
-    <summary>Workshop 5</summary>
+    <summary>Workshop 5 (List, Slices & Random)</summary>
     <br>
     <ul>
         <li>Searching in list</li>
@@ -87,24 +86,39 @@
 </details>
 
 <details>
-    <summary>Workshop 6</summary>
+    <summary>Workshop 6 (Working with Lists)</summary>
+    <br>
+    <ul>
+        <li>Working with lists<li>
+        <li>Prime Numbers</li>
+    </ul>
+</details>
+
+<details>
+    <summary>Workshop 7 (Data Structures, Tuple & Dict)</summary>
     <br>
     <ul>
         <li>Tuple</li>
+        <li>Sorting</li>
         <li>Dictionaries</li>
+        <li>Working with Dict</li>
+        <li>Nesting</li>
     </ul>
 </details>
 
 <details>
-    <summary>Workshop 7</summary>
+    <summary>Workshop 8 (Functions Intro)</summary>
     <br>
     <ul>
+        <li>List with Dicts</li>
         <li>Functions</li>
+        <li>Return Values</li>
     </ul>
 </details>
 
+
 <details>
-    <summary>Workshop 8</summary>
+    <summary>Workshop 9 (Functions)</summary>
     <br>
     <ul>
         <li>List Comprehension</li>
@@ -113,6 +127,21 @@
         <li>Default values</li>
         <li>Keywrod arguments</li>
         <li>Arbitrary Arguments</li>
-        <li>Recursion</li>
+        <li>List as default value</li>
+    </ul>
+</details>
+
+<details>
+    <summary>Workshop 10 (Files & Errors)</summary>
+    <br>
+    <ul>
+        <li>Reading from a file</li>
+        <li>Writing to a file</li>
+        <li>Appending to a file</li>
+        <li>Handling Exceptions</li>
+        <li>Using raise keyword</li>
+        <li>Using else keyword</li>
+        <li>Using finally keyword</li>
+        <li>Working with file formats (json, csv)</li>
     </ul>
 </details>
