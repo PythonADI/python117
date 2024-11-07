@@ -9,6 +9,7 @@
 6. [Assignment 6 (Dict)](https://classroom.github.com/a/7YOGQreq)
 7. [Assignment 7 (Functions)](https://classroom.github.com/a/IcZ2wJ36)
 8. [Assignment 8](https://classroom.github.com/a/hpXYP8MM)
+9. [Assignment 9](https://classroom.github.com/a/atP0oxrb)
 
 ## Resources
 [Python Book](https://1drv.ms/b/s!AmZJMrBsKhiOhYRVjF_6FufcwBQI8w?e=xGQ2i1)
