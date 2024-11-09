@@ -132,17 +132,32 @@
     </ul>
 </details>
 
+
 <details>
-    <summary>Workshop 10 (Files & Errors)</summary>
+    <summary>Workshop 10 (Files)</summary>
     <br>
     <ul>
         <li>Reading from a file</li>
         <li>Writing to a file</li>
         <li>Appending to a file</li>
+    </ul>
+</details>
+
+
+<details>
+    <summary>Workshop 11 (Errors & Classes)</summary>
+    <br>
+    <ul>
         <li>Handling Exceptions</li>
         <li>Using raise keyword</li>
         <li>Using else keyword</li>
         <li>Using finally keyword</li>
-        <li>Working with file formats (json, csv)</li>
+        <li>Introduction OOP</li>
+        <li>Defining classes with their attributes and functionality (methods)</li>
+        <li>Creating objects</li>
+        <li>Accessing attributes and methods</li>
+        <li>What is constructor</li>
+        <li>What is self</li>
+        <li>dunders (__init__, __str__, __add__)</li>
     </ul>
 </details>
